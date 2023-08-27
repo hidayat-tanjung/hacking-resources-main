@@ -38,7 +38,7 @@ This repository follows the [all-contributors](https://github.com/all-contributo
 
 ## License
 
-© 2023 [https://www.hidayatcode.xyz/](https://www.hidayatcode.xyz/)
+© 2023 [https://linuxxploiter.blogspot.com/](https://linuxxploiter.blogspot.com/)
 
 Licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) ([`LICENSE-APACHE`](LICENSE-APACHE)) or the [MIT license](https://opensource.org/licenses/MIT) ([`LICENSE-MIT`](LICENSE-MIT)), at your option.
 
