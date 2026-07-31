@@ -284,6 +284,7 @@
 
 ### Vulnerability Analysis
 
+ * [Dark-Moon](https://github.com/ASCIT31/Dark-Moon): Platform pentest AI otonom open-source (GPL-3.0) dengan MCP server untuk penemuan dan eksploitasi kerentanan otomatis pada web, API, Active Directory, dan Kubernetes; dilengkapi Privacy Gateway.
 #### Vulnerability Scanning
  * [GFI LanGuard](https://www.gfihispana.com/products-and-solutions/network-security-solutions/gfi-languard)
  * [Nessus](https://www.tenable.com/products/nessus): Scanning for vulnerabilities in various operating systems. It consists of a daemon, nessusd, which performs the scan on the target system, and nessus, the client which displays the progress and reports on the status of the scans.
